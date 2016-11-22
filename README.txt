@@ -4,3 +4,4 @@ sur les sites de transports publics tels que celui de la SNCF.
 
 Les taches techniques à effectuer sont dans le fichier TODO.txt.
 
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
